@@ -161,7 +161,10 @@ The output file follows COCO format:
 
 ## Performance Snapshot
 Final results obtained using pretrained DETR : 0.3
-Training / validation curves :
+Training / validation curves of DETR from scratch :
+
+<img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/33842adf-0240-41ea-9c93-73ce8ff27e99" />
+
 
 Leaderboard :
 <img width="772" height="35" alt="image" src="https://github.com/user-attachments/assets/2bf0a67a-0c7c-47a0-8d97-ccd1fc2d3462" />
