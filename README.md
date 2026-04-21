@@ -133,6 +133,9 @@ Additional details:
 ---
 
 ## Usage
+Download the model :
+
+https://drive.google.com/file/d/1Nwyqg6dmZJg7HTBMl-CTmTmdHVsilpHb/view?usp=sharing
 
 Train the model
 
