@@ -1,0 +1,6 @@
+matplotlib
+Pillow
+torch
+torchvision
+transformers
+tqdm
