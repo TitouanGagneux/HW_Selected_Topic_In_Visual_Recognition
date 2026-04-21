@@ -1,5 +1,7 @@
+python>=3.9
 matplotlib
 Pillow
+numpy
 torch
 torchvision
 transformers
