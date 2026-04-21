@@ -169,8 +169,11 @@ Final results obtained using pretrained DETR : 0.3
 
 <img width="989" height="390" alt="image" src="https://github.com/user-attachments/assets/33842adf-0240-41ea-9c93-73ce8ff27e99" />
 
+* Training curves of DETR pretrained :
 
-Leaderboard :
+<img width="552" height="435" alt="image" src="https://github.com/user-attachments/assets/46688952-784b-443a-bee6-218c49d075ca" />
+
+* Leaderboard :
 <img width="772" height="35" alt="image" src="https://github.com/user-attachments/assets/2bf0a67a-0c7c-47a0-8d97-ccd1fc2d3462" />
 
 ---
